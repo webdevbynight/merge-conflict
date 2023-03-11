@@ -1,3 +1,4 @@
+LOCAL
 # merge-conflict
 
 This repo is just an exercise for a quest during a course at Wild Code School.
